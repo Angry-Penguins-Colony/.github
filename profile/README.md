@@ -1,12 +1,5 @@
-## Hi there 👋
+# Hey :wave:
 
-<!--
+This is the Angry Penguins Colony, a NFT collection from the MultiversX blockchain.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We believe in web3 and that's why we try as much as possible to make our code available in open source! 😁
